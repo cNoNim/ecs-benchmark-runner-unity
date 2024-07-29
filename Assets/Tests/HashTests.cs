@@ -6,10 +6,11 @@ namespace Benchmark.Tests
 
 public class HashTests : HashTestsBase
 {
-	[TestCase(1, 1)]
-	[TestCase(2, 4)]
-	[TestCase(4, 16)]
-	[TestCase(8, 64)]
+	[TestCase(1,   1)]
+	[TestCase(2,   4)]
+	[TestCase(4,   16)]
+	[TestCase(8,   64)]
+	[TestCase(256, 16)]
 	public void Check(int entityCount, int ticks) =>
 		TestContexts(Contexts.Factories.Select(factory => factory.factory()), entityCount, ticks);
 
