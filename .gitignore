@@ -1,0 +1,11 @@
+.idea/
+bin/
+obj/
+TestResult/
+Library/
+Logs/
+Temp/
+UserSettings/
+*.DotSettings.user
+*.sln
+*.csproj

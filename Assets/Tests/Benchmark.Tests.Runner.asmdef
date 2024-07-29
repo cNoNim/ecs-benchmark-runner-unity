@@ -1,0 +1,29 @@
+{
+    "name": "Benchmark.Tests.Runner",
+    "rootNamespace": "Benchmark.Tests",
+    "references": [
+        "Benchmark.DragonEcs",
+        "Benchmark.EcsLite",
+        "Benchmark.Entities",
+        "Benchmark.Morpeh",
+        "Benchmark.Core",
+        "Benchmark.Tests",
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+  "enableLockFile": false,
+  "dependencies": {
+    "com.dcfa_pixels.dragonecs": "https://github.com/DCFApixels/DragonECS.git",
+    "com.leopotam.ecslite": "https://github.com/Leopotam/ecslite.git",
+    "com.scellecs.morpeh": "https://github.com/scellecs/morpeh.git?path=Scellecs.Morpeh#stage-2024.1",
+    "com.unity.ide.rider": "3.0.31",
+    "ecs.benchmark.core": "https://github.com/cNoNim/ecs-benchmark-core.git",
+    "ecs.benchmark.dragonecs": "https://github.com/cNoNim/ecs-benchmark-dragonecs.git",
+    "ecs.benchmark.ecslite": "https://github.com/cNoNim/ecs-benchmark-ecslite.git",
+    "ecs.benchmark.entities": "https://github.com/cNoNim/ecs-benchmark-entities.git",
+    "ecs.benchmark.morpeh": "https://github.com/cNoNim/ecs-benchmark-morpeh.git"
+  },
+  "testables": [
+    "ecs.benchmark.core"
+  ]
+}
