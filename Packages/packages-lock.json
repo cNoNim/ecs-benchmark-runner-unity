@@ -23,7 +23,7 @@
     },
     "com.unity.burst": {
       "version": "1.8.17",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.mathematics": "1.2.1",
@@ -33,7 +33,7 @@
     },
     "com.unity.collections": {
       "version": "2.5.0-pre.2",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.burst": "1.8.16",
@@ -45,7 +45,7 @@
     },
     "com.unity.entities": {
       "version": "1.2.3",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.burst": "1.8.13",
@@ -65,7 +65,7 @@
     },
     "com.unity.ext.nunit": {
       "version": "2.0.3",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -81,35 +81,35 @@
     },
     "com.unity.mathematics": {
       "version": "1.3.2",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.nuget.mono-cecil": {
       "version": "1.11.4",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.profiling.core": {
       "version": "1.0.2",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.scriptablebuildpipeline": {
       "version": "1.21.23",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.serialization": {
       "version": "3.1.1",
-      "depth": 2,
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.collections": "2.1.4",
@@ -119,7 +119,7 @@
     },
     "com.unity.test-framework": {
       "version": "1.4.5",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "2.0.3",
@@ -130,7 +130,7 @@
     },
     "com.unity.test-framework.performance": {
       "version": "3.0.3",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.31",
@@ -142,70 +142,46 @@
       "version": "https://github.com/cNoNim/ecs-benchmark-core.git",
       "depth": 0,
       "source": "git",
-      "dependencies": {
-        "com.unity.burst": "1.8.17",
-        "com.unity.collections": "2.4.2",
-        "com.unity.mathematics": "1.3.2",
-        "com.unity.test-framework": "1.4.5",
-        "com.unity.test-framework.performance": "3.0.3",
-        "com.unity.modules.imgui": "1.0.0",
-        "com.unity.modules.unitywebrequest": "1.0.0"
-      },
-      "hash": "c076ec1b34df287d44686a27f9e5f78dd010c976"
+      "dependencies": {},
+      "hash": "b2c722c1af31dbdb68eadab264e705a7d3cb25f7"
     },
     "ecs.benchmark.dragonecs": {
       "version": "https://github.com/cNoNim/ecs-benchmark-dragonecs.git",
       "depth": 0,
       "source": "git",
-      "dependencies": {
-        "ecs.benchmark.core": "1.0.0",
-        "com.dcfa_pixels.dragonecs": "0.8.39"
-      },
-      "hash": "696dd4a68131f83423c0a7f5187495698c765d07"
+      "dependencies": {},
+      "hash": "b368eb9d2298673c91f6fa6a854f690dead396b9"
     },
     "ecs.benchmark.ecslite": {
       "version": "https://github.com/cNoNim/ecs-benchmark-ecslite.git",
       "depth": 0,
       "source": "git",
-      "dependencies": {
-        "ecs.benchmark.core": "1.0.0",
-        "com.leopotam.ecslite": "2024.5.22"
-      },
-      "hash": "572cc31d5c2323663fde8d8712827cbbe1a95449"
+      "dependencies": {},
+      "hash": "027610955bc9e4f5eb6b812ac982c974c7aca8e2"
     },
     "ecs.benchmark.entities": {
       "version": "https://github.com/cNoNim/ecs-benchmark-entities.git",
       "depth": 0,
       "source": "git",
-      "dependencies": {
-        "ecs.benchmark.core": "1.0.0",
-        "com.unity.burst": "1.8.17",
-        "com.unity.collections": "2.5.0-pre.2",
-        "com.unity.entities": "1.2.3",
-        "com.unity.modules.physics": "1.0.0",
-        "com.unity.modules.uielements": "1.0.0"
-      },
-      "hash": "180875fdba7ca75bfc34622daf0093579a6aff77"
+      "dependencies": {},
+      "hash": "8c3b758f5d917394ae5e9fda7115f06677d52ab4"
     },
     "ecs.benchmark.morpeh": {
       "version": "https://github.com/cNoNim/ecs-benchmark-morpeh.git",
       "depth": 0,
       "source": "git",
-      "dependencies": {
-        "ecs.benchmark.core": "1.0.0",
-        "com.scellecs.morpeh": "2024.1.0"
-      },
-      "hash": "c2b39e86e0ef4fa0a84d607ff6141ad28dfe1214"
+      "dependencies": {},
+      "hash": "ffc6c698a8be78628a746a2f33104199a4ab3a77"
     },
     "com.unity.modules.assetbundle": {
       "version": "1.0.0",
-      "depth": 2,
+      "depth": 1,
       "source": "builtin",
       "dependencies": {}
     },
     "com.unity.modules.audio": {
       "version": "1.0.0",
-      "depth": 2,
+      "depth": 1,
       "source": "builtin",
       "dependencies": {}
     },
@@ -217,25 +193,25 @@
     },
     "com.unity.modules.jsonserialize": {
       "version": "1.0.0",
-      "depth": 2,
+      "depth": 1,
       "source": "builtin",
       "dependencies": {}
     },
     "com.unity.modules.physics": {
       "version": "1.0.0",
-      "depth": 1,
+      "depth": 0,
       "source": "builtin",
       "dependencies": {}
     },
     "com.unity.modules.ui": {
       "version": "1.0.0",
-      "depth": 2,
+      "depth": 1,
       "source": "builtin",
       "dependencies": {}
     },
     "com.unity.modules.uielements": {
       "version": "1.0.0",
-      "depth": 1,
+      "depth": 0,
       "source": "builtin",
       "dependencies": {
         "com.unity.modules.ui": "1.0.0",
@@ -245,7 +221,7 @@
     },
     "com.unity.modules.unityanalytics": {
       "version": "1.0.0",
-      "depth": 2,
+      "depth": 1,
       "source": "builtin",
       "dependencies": {
         "com.unity.modules.unitywebrequest": "1.0.0",
