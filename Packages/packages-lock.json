@@ -143,21 +143,21 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "b2c722c1af31dbdb68eadab264e705a7d3cb25f7"
+      "hash": "26499f0385578d5f6beb72ec30bfd46e409e3f3a"
     },
     "ecs.benchmark.dragonecs": {
       "version": "https://github.com/cNoNim/ecs-benchmark-dragonecs.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "b368eb9d2298673c91f6fa6a854f690dead396b9"
+      "hash": "b3451bc70b8e51faf78aa627b6ef7b5dccd5958d"
     },
     "ecs.benchmark.ecslite": {
       "version": "https://github.com/cNoNim/ecs-benchmark-ecslite.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "027610955bc9e4f5eb6b812ac982c974c7aca8e2"
+      "hash": "09cd07f120b374ed46287a223f2cc45b8b6402a5"
     },
     "ecs.benchmark.entities": {
       "version": "https://github.com/cNoNim/ecs-benchmark-entities.git",
@@ -165,6 +165,13 @@
       "source": "git",
       "dependencies": {},
       "hash": "8c3b758f5d917394ae5e9fda7115f06677d52ab4"
+    },
+    "ecs.benchmark.frifloecs": {
+      "version": "https://github.com/cNoNim/ecs-benchmark-frifloecs.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "ec48f225071b0e7a817ded9d286e46057ab4e8df"
     },
     "ecs.benchmark.morpeh": {
       "version": "https://github.com/cNoNim/ecs-benchmark-morpeh.git",

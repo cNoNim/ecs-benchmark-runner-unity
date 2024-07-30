@@ -5,6 +5,7 @@
         "Benchmark.DragonEcs",
         "Benchmark.EcsLite",
         "Benchmark.Entities",
+        "Benchmark.FrifloEcs",
         "Benchmark.Morpeh",
         "Benchmark.Core",
         "Benchmark.Performance.Tests",

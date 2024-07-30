@@ -16,6 +16,7 @@
     "ecs.benchmark.dragonecs": "https://github.com/cNoNim/ecs-benchmark-dragonecs.git",
     "ecs.benchmark.ecslite": "https://github.com/cNoNim/ecs-benchmark-ecslite.git",
     "ecs.benchmark.entities": "https://github.com/cNoNim/ecs-benchmark-entities.git",
+    "ecs.benchmark.frifloecs": "https://github.com/cNoNim/ecs-benchmark-frifloecs.git",
     "ecs.benchmark.morpeh": "https://github.com/cNoNim/ecs-benchmark-morpeh.git"
   },
   "testables": [
