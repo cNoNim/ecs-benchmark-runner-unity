@@ -143,7 +143,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "26499f0385578d5f6beb72ec30bfd46e409e3f3a"
+      "hash": "b5cd23154b1d234a6b00a9d491b947166085cbdb"
     },
     "ecs.benchmark.dragonecs": {
       "version": "https://github.com/cNoNim/ecs-benchmark-dragonecs.git",
@@ -171,7 +171,7 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "ec48f225071b0e7a817ded9d286e46057ab4e8df"
+      "hash": "bed0cf0f5b1fb9fced84d52d5d1c369c33837f34"
     },
     "ecs.benchmark.morpeh": {
       "version": "https://github.com/cNoNim/ecs-benchmark-morpeh.git",
