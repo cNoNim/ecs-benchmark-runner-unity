@@ -6,18 +6,18 @@
     "com.unity.burst": "1.8.17",
     "com.unity.collections": "2.5.0-pre.2",
     "com.unity.entities": "1.2.3",
-    "com.unity.mathematics": "1.3.2",
     "com.unity.ide.rider": "3.0.31",
+    "com.unity.mathematics": "1.3.2",
     "com.unity.test-framework": "1.4.5",
     "com.unity.test-framework.performance": "3.0.3",
-    "com.unity.modules.physics": "1.0.0",
-    "com.unity.modules.uielements": "1.0.0",
     "ecs.benchmark.core": "https://github.com/cNoNim/ecs-benchmark-core.git",
     "ecs.benchmark.dragonecs": "https://github.com/cNoNim/ecs-benchmark-dragonecs.git",
     "ecs.benchmark.ecslite": "https://github.com/cNoNim/ecs-benchmark-ecslite.git",
     "ecs.benchmark.entities": "https://github.com/cNoNim/ecs-benchmark-entities.git",
     "ecs.benchmark.frifloecs": "https://github.com/cNoNim/ecs-benchmark-frifloecs.git",
-    "ecs.benchmark.morpeh": "https://github.com/cNoNim/ecs-benchmark-morpeh.git"
+    "ecs.benchmark.morpeh": "https://github.com/cNoNim/ecs-benchmark-morpeh.git",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.uielements": "1.0.0"
   },
   "testables": [
     "ecs.benchmark.core"
