@@ -1,13 +1,13 @@
 {
   "dependencies": {
     "com.dcfa_pixels.dragonecs": "https://github.com/DCFApixels/DragonECS.git#0.9.21",
-    "com.leopotam.ecslite": "https://github.com/Leopotam/ecslite.git",
-    "com.scellecs.morpeh": "https://github.com/scellecs/morpeh.git?path=Scellecs.Morpeh#stage-2024.1",
+    "com.leopotam.ecslite": "https://github.com/Leopotam/ecslite.git#2025.4.22",
+    "com.scellecs.morpeh": "https://github.com/scellecs/morpeh.git?path=Scellecs.Morpeh#2024.1.1",
     "com.unity.burst": "1.8.29",
     "com.unity.collections": "6.4.0",
     "com.unity.entities": "6.4.0",
     "com.unity.ide.rider": "3.0.39",
-    "com.unity.inputsystem": "1.17.0",
+    "com.unity.inputsystem": "1.19.0",
     "com.unity.mathematics": "1.3.3",
     "com.unity.multiplayer.center": "1.0.1",
     "com.unity.sdk.linux-x86_64": "1.0.2",
