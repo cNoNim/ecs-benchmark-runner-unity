@@ -1,8 +1,11 @@
 {
   "dependencies": {
     "com.dcfa_pixels.dragonecs": "https://github.com/DCFApixels/DragonECS.git#0.9.21",
+    "com.felid-force-studios.static-ecs": "https://github.com/Felid-Force-Studios/StaticEcs.git#v2.0.3",
+    "com.felid-force-studios.static-pack": "https://github.com/Felid-Force-Studios/StaticPack.git#v1.1.0",
     "com.leopotam.ecslite": "https://github.com/Leopotam/ecslite.git#2025.4.22",
     "com.scellecs.morpeh": "https://github.com/scellecs/morpeh.git?path=Scellecs.Morpeh#2024.1.1",
+    "massive-ecs": "https://github.com/nilpunch/massive-ecs.git#v20.1.1",
     "com.unity.burst": "1.8.29",
     "com.unity.collections": "6.4.0",
     "com.unity.entities": "6.4.0",
@@ -19,7 +22,9 @@
     "ecs.benchmark.ecslite": "https://github.com/cNoNim/ecs-benchmark-ecslite.git",
     "ecs.benchmark.entities": "https://github.com/cNoNim/ecs-benchmark-entities.git",
     "ecs.benchmark.frifloecs": "https://github.com/cNoNim/ecs-benchmark-frifloecs.git",
+    "ecs.benchmark.massiveecs": "https://github.com/cNoNim/ecs-benchmark-massiveecs.git",
     "ecs.benchmark.morpeh": "https://github.com/cNoNim/ecs-benchmark-morpeh.git",
+    "ecs.benchmark.staticecs": "https://github.com/cNoNim/ecs-benchmark-staticecs.git",
     "com.unity.modules.accessibility": "1.0.0",
     "com.unity.modules.adaptiveperformance": "1.0.0",
     "com.unity.modules.physics": "1.0.0",

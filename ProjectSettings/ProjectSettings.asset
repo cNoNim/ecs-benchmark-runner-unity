@@ -161,7 +161,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: ecs.benchmark.public
+    Android: ecs.benchmark.unity
     Lumin: ecs.benchmark.public
     Standalone: ecs.benchmark.public
     iPhone: ecs.benchmark.public

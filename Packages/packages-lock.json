@@ -7,6 +7,20 @@
       "dependencies": {},
       "hash": "859ea67511718ae66ced8b9ccf385a16145f09bb"
     },
+    "com.felid-force-studios.static-ecs": {
+      "version": "https://github.com/Felid-Force-Studios/StaticEcs.git#v2.0.3",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "aec8ed75f54149985987911df341d87b10d73e8a"
+    },
+    "com.felid-force-studios.static-pack": {
+      "version": "https://github.com/Felid-Force-Studios/StaticPack.git#v1.1.0",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "bee2fd4eea9803c6bdfc89593d69d70ca417cbca"
+    },
     "com.leopotam.ecslite": {
       "version": "https://github.com/Leopotam/ecslite.git#2025.4.22",
       "depth": 0,
@@ -215,7 +229,14 @@
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "c9a2bf76b3a64c5cfb622885551b28adabead292"
+      "hash": "2302a1267467ead432723f189181570ecf9d8f0a"
+    },
+    "ecs.benchmark.massiveecs": {
+      "version": "https://github.com/cNoNim/ecs-benchmark-massiveecs.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "9f4526d0723d20c1f09e1487452a532e470036ff"
     },
     "ecs.benchmark.morpeh": {
       "version": "https://github.com/cNoNim/ecs-benchmark-morpeh.git",
@@ -223,6 +244,22 @@
       "source": "git",
       "dependencies": {},
       "hash": "ebfb94c73e580ddc9c0f9e5023c00c0e776d630d"
+    },
+    "ecs.benchmark.staticecs": {
+      "version": "https://github.com/cNoNim/ecs-benchmark-staticecs.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "8d1d789e87e3f64ae2897fe4b9eaced83fbd5dbe"
+    },
+    "massive-ecs": {
+      "version": "https://github.com/nilpunch/massive-ecs.git#v20.1.1",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.test-framework.performance": "3.0.3"
+      },
+      "hash": "21e578f41e9184ae364bf478a9cb2bde42634403"
     },
     "com.unity.modules.accessibility": {
       "version": "1.0.0",
